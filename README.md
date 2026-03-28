@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" />
 
 - 🔭 I’m currently working on **FACE RECOGNITION WITH PYTHON**
 
