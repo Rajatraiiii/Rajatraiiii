@@ -29,5 +29,5 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajatraiiii&show_icons=true" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatraiiii&" alt="rajatraiiii" /></p>
+
 
