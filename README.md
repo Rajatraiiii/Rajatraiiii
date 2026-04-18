@@ -3,25 +3,33 @@
 <h1 align="center">Hi 👋, I'm RAJAT RAI</h1>
 <h3 align="center">From Backend logic to Frontend magic: Python, MySQL & Web Tech</h3>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+
+<td width="48%" valign="top">
 
 <h3>📊 Most Used Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatraiiii&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatraiiii&layout=compact&theme=tokyonight" width="100%"/>
 
-</td>
+<br>
 
-<td width="50%">
-<img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</td>
-</tr>
-</table>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" />
 </p>
+
+</td>
+
+<td width="52%" align="right">
+
+<img alt="Coding"
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
