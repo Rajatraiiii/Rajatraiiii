@@ -10,7 +10,13 @@
 
 <h3>📊 Most Used Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatraiiii&layout=compact&theme=tokyonight" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajatraiiii&theme=tokyonight" width="100%" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,react,nodejs,html,css,javascript,java&perline=8" />
+</p>
 
 <br>
 
