@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png">
 
 <h1 align="center">Hi 👋, I'm RAJAT RAI</h1>
-<h3 align="center">From Backend logic to Frontend magic: Python, MySQL & Web Tech</h3>
+<h3 align="center">From Backend logic to Frontend magic: Python, MySQL & Web Tech(BACKEND)</h3>
 
 <table width="100%">
 <tr>
