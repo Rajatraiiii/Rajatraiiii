@@ -34,8 +34,8 @@
 ---
 
 - 🔭 I’m currently working on **FACE RECOGNITION WITH PYTHON**  
-- 🌱 I’m currently learning **DATA ANALYTICS**  
-- 💬 Ask me about **WEB DEV, DATABASE , PYTHON**  
+- 🌱 I’m currently learning **DATA ANALYTICS AND BACKEND**  
+- 💬 Ask me about **WEB DEV, DATABASE , PYTHON, BACKEND**  
 - 📫 How to reach me **rairajat280@gmail.com**  
 - ⚡ Fun fact **I turn coffee into code using Python, MySQL, HTML, CSS & JavaScript.**
 
